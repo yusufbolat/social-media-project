@@ -25,7 +25,7 @@ Hellooo! Yuumi is a social media platform developed with Laravel. It is similar 
 
 > The project is constantly being developed. Please fork this project and develop your own version. Contribute to Yuumi!
 
-![Database](https://blog.cloudflare.com/content/images/2021/11/image1-13.png)
+![Database](https://i.hizliresim.com/jvqg7sf.png)
 > Database relationships are constantly updated depending on Yuumi's development. Therefore, this table may not represent the correct relationships.
 
     
@@ -33,3 +33,16 @@ Hellooo! Yuumi is a social media platform developed with Laravel. It is similar 
     - Laravel 8
     - PHP 8.0.1
 
+## Screenshots
+
+![Database](https://i.hizliresim.com/b92q96h.png)
+
+![Database](https://i.hizliresim.com/pkd0xdf.png)
+
+![Database](https://i.hizliresim.com/6mju9h9.png)
+
+![Database](https://i.hizliresim.com/k2jtiih.png)
+
+![Database](https://i.hizliresim.com/jaueeic.png)
+
+![Database](https://i.hizliresim.com/rm10q1i.png)

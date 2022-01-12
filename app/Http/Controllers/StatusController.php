@@ -12,7 +12,7 @@ class StatusController extends Controller
     public function postStatus(Request $request){
 
         $this->validate($request, [
-            'status' => 'required|max:250',
+            'status' => 'required|max:450',
             'image' => 'image|dimensions:min_width=735,min_height=400',
         ]);
 
